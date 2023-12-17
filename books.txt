@@ -1,0 +1,21 @@
+100,Zece Negri Mititei,Agatha Cristie 
+101,La cumpăna apelor,Lucian Blaga 
+102,Doină,Octavian Goga 
+103,Plumb,George Bacovia 
+104,Amurg violet,George Bacovia 
+105,Amurg violet,George Bacovia 
+106,Amurg violet,George Bacovia 
+107,Baltagul,Mihail Sadoveanu 
+108,O noapte furtunoasă,Ion Luca Caragiale 
+109,Miorița,George Coșbuc 
+110,Moartea căprioarei,Nicolae Labiș 
+111,Joc secund,Ion Minulescu 
+112,Moartea lui Fulger,George Coșbuc 
+113,Amintiri din copilărie,Ion Creangă 
+114,O noapte furtunoasă,Ion Luca Caragiale 
+115,Pădurea spânzuraților,Liviu Rebreanu 
+116,Scrisoarea III,Mihai Eminescu 
+117,În ceasul al doisprezecelea,Ion Barbu 
+118,Plumb,George Bacovia 
+119,Amurg violet,George Bacovia 
+1,Robinson Crusoe,Daniel Defoe 
